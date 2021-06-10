@@ -1,1 +1,1 @@
-[{"input":"2 3 5 7 , 2 7 3 4","output":" 208.416   342.684  531.06 757.512","error":"wrong answer","priority":1,"name":"fir"}]
+[{"input":"4 5 2 5","output":"2","error":"wrong answer","priority":1,"name":"fir"},{"input":"4 5 3 6","output":"-1","error":"wrong answer","priority":1,"name":"2"}]
