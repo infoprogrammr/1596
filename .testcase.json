@@ -1,1 +1,1 @@
-[{"input":"23 24 21 26 21 22 24 29 28 29","output":"21 29  (3 5) (8 10)","error":"wrong answer","priority":1,"name":"fir"},{"input":"29 29 29 23 24 30 25 27 23 20","output":"20 30 (10) (6)","error":"wrong answer","priority":2,"name":"2"}]
+[{"input":"23 24 21 26 21 22 24 29 28 29","output":"3","error":"wrong answer","priority":1,"name":"fir"},{"input":"29 29 29 23 24 30 25 27 23 20","output":"3","error":"wrong answer","priority":2,"name":"2"}]
