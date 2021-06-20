@@ -1,8 +1,14 @@
 #include<iostream>
+#include<algorithm>
 using namespace std;
 int main(){
-  /* please subscribe the page from website to get your code accepted */
-  /* Enter Your Name Here */
-/* Start Your Coding Here */
+  int a[10];
+  for(int i=0;i<10;i++) cin>>a[i];
+  sort(a,a+10);
+  int count=0;
+  for(int i=0;i<9;i++){
+      if(a[i]==a[i+1]) count++;
+  }
+  cout<<count;
   return 0;
 }
