@@ -1,1 +1,1 @@
-[{"input":"23 24 21 26 21 22 24 29 28 29","output":"3","error":"wrong answer","priority":1,"name":"fir"},{"input":"26 23 24 25 26 28 28 28 28 29","output":"4","error":"wrong answer","priority":1,"name":"fir"}]
+[{"input":"***/**//**","output":"10 inch","error":"wrong answer","priority":1,"name":"fir"},{"input":"******/****","output":"60 inch","error":"wrong answer","priority":1,"name":"fir"}]
