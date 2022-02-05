@@ -1,1 +1,1 @@
-[{"input":"***/**//**","output":"10 inch","error":"wrong answer","priority":1,"name":"fir"},{"input":"******/****","output":"60 inch","error":"wrong answer","priority":1,"name":"fir"}]
+[{"input":"***/**//**","output":"10 inch","error":"wrong answer","priority":1,"name":"fir"},{"input":"******/****","output":"60 inch","error":"wrong answer","priority":3,"name":"fir"}]
